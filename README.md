@@ -1,16 +1,9 @@
 # telegram_clone_flutter
 
-A new Flutter application.
+Building a WhatsApp Clone App in Flutter - Flutter UI  - Flutter Tutorial 
 
-## Getting Started
+## [Watch it on YouTube]( https://youtu.be/jJjOHGOjIHU )
 
-This project is a starting point for a Flutter application.
+### Show some support and star the repo to support the project
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![prototype2](https://user-images.githubusercontent.com/42013687/106543269-07382680-650e-11eb-97f2-09c04dbf71e6.png)
